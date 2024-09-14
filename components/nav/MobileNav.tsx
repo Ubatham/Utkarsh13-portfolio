@@ -34,15 +34,15 @@ const MobileNav = () => {
 					<SheetHeader className="text-start py-8">
 						<SheetTitle>
 							<Image
-								src="/icons/mobile-nav-logo.svg"
+								src="/icons/ub.png"
 								alt="mobile nav logo"
 								width={300}
 								height={70}
 							/>
 						</SheetTitle>
 						<SheetDescription>
-							I am a skilled software developer with 2+ years of experience in full-stack development,
-							specializing in Java, JavaScript, React, SpringBoot and Node.js, ready to bring your
+							I am a skilled software developer with experience in web development,
+							specializing in Java, JavaScript, React and Node.js, ready to bring your
 							projects to life.
 						</SheetDescription>
 					</SheetHeader>
