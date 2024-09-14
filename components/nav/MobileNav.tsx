@@ -34,7 +34,7 @@ const MobileNav = () => {
 					<SheetHeader className="text-start py-8">
 						<SheetTitle>
 							<Image
-								src="/icons/ub.png"
+								src="/icons/Ub.png"
 								alt="mobile nav logo"
 								width={300}
 								height={70}
